@@ -1,0 +1,14 @@
+.show{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    row-gap: 7px;
+}
+
+.button{
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: grey;
+    padding: 5px;
+    cursor: pointer;
+}

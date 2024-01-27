@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: larger;
+}
+body{
+    background-color: antiquewhite;
+}
+#message{
+    color: red;
+}
