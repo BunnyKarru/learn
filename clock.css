@@ -1,5 +1,5 @@
 #time{
-    width: 155px;
+    width: 175px;
     height: 55px;
     background-color: orange;
     border: 1px solid black;
@@ -12,7 +12,7 @@
 }
 blockquote{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: xx-large;
+    font-size: large;
 }
 .main{
     display: flex;
